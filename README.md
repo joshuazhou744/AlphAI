@@ -1,0 +1,2 @@
+# SkibidAI
+SummerHacks YCW Hackathon
