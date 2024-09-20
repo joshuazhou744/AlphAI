@@ -1,10 +1,9 @@
 import { useState } from 'react'
-import ReactDOM from "react-router-dom"
 
 function App() {
   return (  
     <div className='body'>
-        <h1 className='title'>SkibidAI</h1>
+        <h1 className='title'>I just lost my dawawwwg</h1>
     </div>
   )
 }
